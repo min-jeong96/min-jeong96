@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @min-jeong96
 - 👩‍💻 My career objective is a front-end engineer active in learning and using new skills
-- 🌱 I’m currently learning ⚛️React.js
+- 🌱 I’m currently learning Vue.js and Nuxt.js
 - 👀 I’m interested in musical, movie
 - 📫 Contact
   - blog: https://velog.io/@minjeong-dev
